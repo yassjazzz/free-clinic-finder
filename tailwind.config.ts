@@ -47,6 +47,11 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        clinic: {
+          open: "hsl(var(--clinic-open))",
+          closed: "hsl(var(--clinic-closed))",
+          limited: "hsl(var(--clinic-limited))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
